@@ -3,7 +3,7 @@
   <img src="https://profile-counter.glitch.me/itgoyo/count.svg" />
 </p> -->
 
-<h1 align="center">Hi 👋, I'm itgoyo</h1>
+<h1 align="center">Hi 👋, I'm Ko Ko Ye</h1>
 <h3 align="center">Product engineer from China, building useful tools for dev workflow and digital life.</h3>
 
 ## 🚀 Now Building
